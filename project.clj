@@ -1,4 +1,4 @@
-(defproject sonian/lein-template "0.1.0"
+(defproject sonian/lein-template "0.1.1"
   :description "Sonian's new project template"
   :url "http://github.com/dakrone/sonian-template"
   :license {:name "Eclipse Public License"
